@@ -1,1 +1,1 @@
-# PhysioNet-Digitization_of_ECG_Images-Kaggle
+# PhysioNet - Digitization of ECG Images
